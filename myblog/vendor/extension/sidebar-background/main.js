@@ -1,0 +1,1 @@
+!function(e){"use strict";e(window).on("loaded-sidebar-page",function(){e(".sidebar").css("background-image","url('img/cover.jpg')")})}(Zepto);

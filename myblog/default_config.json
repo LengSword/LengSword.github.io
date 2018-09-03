@@ -1,0 +1,6 @@
+{
+    "app_name": "myblog",
+    "img_root" : "img",
+    "markdown_root":"p",
+    "description": "LengSword's blog"
+}

@@ -1,0 +1,111 @@
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>LengSword's Blog</title>
+    <!-- responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <!-- core css -->
+    <link rel="stylesheet" href="vendor/core.css">
+
+</head>
+
+
+
+<body>
+
+    <!-- sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-inner">
+            <div class="sidebar-page" id="sidebar-page"></div>
+        </div>
+    </div>
+    <!-- aplayer -->
+    <div id="aplayer"></div>
+    <!-- main -->
+    <div class="main" id="main">
+        
+        <div class="main-inner">
+            <!-- 主内容 -->
+            <div class="main-page markdown-body" id="main-page"></div> 
+
+            <!-- 底部 -->
+            <div class="main-page-footer main-page markdown-body" id="main-page-footer"></div>
+        </div>
+    </div>
+</body>
+<script src="vendor/zepto-1.1.6.min.js"></script>
+
+
+<!-- comment system -->
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+<!-- music player -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js"></script>
+
+<!-- extensions START-->
+
+<!-- content-fadeIn -->
+<link rel="stylesheet" href="vendor/extension/content-fadeIn/main.css">
+
+<!-- slide backgournd(modified by LengSword) -->
+<link rel="stylesheet" href="vendor/extension/sidebar-background/main.css">
+<script src="vendor/extension/sidebar-background/main.js"></script> 
+
+<!-- load-progress -->
+<link rel="stylesheet" href="vendor/extension/load-progress/dist/main.css">
+<script src="vendor/extension/load-progress/dist/main.js"></script> 
+
+<!-- sidebar-item -->
+<link rel="stylesheet" href="vendor/extension/sidebar-item/main.css">
+
+<!-- footer-custom-counter -->
+<script src="vendor/extension/footer-custom-counter/main.js"></script> 
+
+<!-- load-comment-system -->
+<script src="vendor/extension/load-comment-system/main.js"></script> 
+
+<!-- load-specials-system -->
+<script src="vendor/extension/load-specials-system/main.js"></script> 
+
+<!-- extensions END-->
+
+<!-- core.js -->
+<script src="vendor/core.js"></script> 
+
+<script>
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: true,
+        autoplay: true,
+        loop: 'all',
+        preload: 'metadata',
+        mutex: true,
+        listFolded: false,
+        listMaxHeight: 90,
+        lrcType: 3,
+        audio: [
+            {
+                name: '一番の宝物 ~Yui final ver.~',
+                artist: 'LiSA',
+                url: 'http://music.163.com/song/media/outer/url?id=419594773',
+                cover: 'http://p1.music.126.net/sRjvTkCN4p1R36QPXcDClA==/3442570911926214.jpg',
+                lrc: 'p/specials/01-一番の宝物 ~Yui final ver.~-LiSA.lrc',
+            },
+            {
+                name: 'You - 钢琴版',
+                artist: 'nayuta',
+                url: 'http://music.163.com/song/media/outer/url?id=34125127',
+                cover: 'http://p1.music.126.net/v22kNtMro7CvzoiCYJ4zjQ==/3315027558990599.jpg',
+                lrc: 'p/specials/02-you-nayuta.lrc',
+            }
+        ]
+    });
+</script>
+
+</html>

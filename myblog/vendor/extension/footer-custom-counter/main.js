@@ -1,0 +1,1 @@
+!function(e){"use strict";function a(e){var a=Date.parse(new Date(e)),n=Date.parse(new Date),t=Math.abs(parseInt((n-a)/1e3/3600/24));return t}e(window).on("loaded-main-page-footer",function(){var n=e("#main-page-footer"),t=a("2018/6/5");n.append("<p>From 2018/6/5 == 与你相遇已有 <b>"+t+"</b> 天了</p>")})}(Zepto);
