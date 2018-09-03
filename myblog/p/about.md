@@ -13,7 +13,7 @@
 | Skills    | Progess   |
 |-----------|-----------|
 | ASM       | ![12%](http://progressed.io/bar/12?title=Lv1) |
-| C/C++     | ![9%](http://progressed.io/bar/9?title=Lv0)  |
+| C/C++     | ![9%](http://progressed.io/bar/9?title=Lv0)   |
 | C#        | ![3%](http://progressed.io/bar/3?title=Lv0)   |
 | Java      | ![3%](http://progressed.io/bar/3?title=Lv0)   |
 | JavaScript| ![7%](http://progressed.io/bar/7?title=Lv0)   |
@@ -30,7 +30,7 @@
 | Crypto    | ![3%](http://progressed.io/bar/3?title=Lv0)   |
 | Web       | ![5%](http://progressed.io/bar/5?title=Lv0)   |
 | Mobile    | ![1%](http://progressed.io/bar/1?title=Lv0)   |
-| Misc     | ![2%](http://progressed.io/bar/2?title=Lv0)    |
+| Misc      | ![2%](http://progressed.io/bar/2?title=Lv0)   |
 
 
 ------
