@@ -1,8 +1,8 @@
 ![logo](../img/favicon.ico)
 
-# [LengSword](.)
+## [**LengSword**](.)
 
-> Welcome to my simple blog.
+> *Welcome to my simple blog*.
 
 - [Home](home.md)
 - [Projects](projects/index.md)

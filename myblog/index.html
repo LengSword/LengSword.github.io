@@ -16,7 +16,6 @@
 
 
 <body>
-
     <!-- sidebar -->
     <div class="sidebar">
         <div class="sidebar-inner">
@@ -27,7 +26,9 @@
     <div id="aplayer"></div>
     <!-- main -->
     <div class="main" id="main">
-
+        <!-- TOC -->
+        <div class="markdown-toc" id="toc" ></div>
+        <img id="toggle" src="img/ic_toc_48px.svg"/>
         <div class="main-inner">
             <!-- 主内容 -->
             <div class="main-page markdown-body" id="main-page"></div> 
@@ -40,9 +41,38 @@
 <script src="vendor/zepto-1.1.6.min.js"></script>
 
 
+<!-- extensions START-->
+
 <!-- comment system -->
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+<!-- content-fadeIn -->
+<link rel="stylesheet" href="vendor/extension/content-fadeIn/main.css">
+
+<!-- slide backgournd -->
+<link rel="stylesheet" href="vendor/extension/sidebar-background/main.css">
+<script src="vendor/extension/sidebar-background/main.js"></script> 
+
+<!-- load-progress -->
+<link rel="stylesheet" href="vendor/extension/load-progress/dist/main.css">
+<script src="vendor/extension/load-progress/dist/main.js"></script> 
+
+<!-- sidebar-item -->
+<link rel="stylesheet" href="vendor/extension/sidebar-item/main.css">
+
+<!-- footer-custom-counter -->
+<script src="vendor/extension/footer-custom-counter/main.js"></script> 
+
+<!-- load-comment-system -->
+<script src="vendor/extension/load-comment-system/main.js"></script> 
+
+<!-- load-specials-system -->
+<script src="vendor/extension/load-specials-system/main.js"></script> 
+
+<!-- markdown-toc -->
+<link rel="stylesheet" href="vendor/extension/markdown-toc/main.css">
+<script src="vendor/extension/markdown-toc/main.js"></script>
 
 <!-- music player -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css">
@@ -77,31 +107,6 @@
         ]
     });
 </script>
-<!-- extensions START-->
-
-<!-- content-fadeIn -->
-<link rel="stylesheet" href="vendor/extension/content-fadeIn/main.css">
-
-<!-- slide backgournd(modified by LengSword) -->
-<link rel="stylesheet" href="vendor/extension/sidebar-background/main.css">
-<script src="vendor/extension/sidebar-background/main.js"></script> 
-
-<!-- load-progress -->
-<link rel="stylesheet" href="vendor/extension/load-progress/dist/main.css">
-<script src="vendor/extension/load-progress/dist/main.js"></script> 
-
-<!-- sidebar-item -->
-<link rel="stylesheet" href="vendor/extension/sidebar-item/main.css">
-
-<!-- footer-custom-counter -->
-<script src="vendor/extension/footer-custom-counter/main.js"></script> 
-
-<!-- load-comment-system -->
-<script src="vendor/extension/load-comment-system/main.js"></script> 
-
-<!-- load-specials-system -->
-<script src="vendor/extension/load-specials-system/main.js"></script> 
-
 <!-- extensions END-->
 
 <!-- core.js -->

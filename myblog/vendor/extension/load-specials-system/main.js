@@ -41,11 +41,7 @@
                 var htmlCodes = '<iframe src="./p/specials/schulte_grid.html" width="100%" height="100%" scrolling="no" frameborder="0"></iframe>';
                 e("#main-page").append(htmlCodes);
             }
-            // if(cur_md_path == "online_execute.md") { //Tool 0x02 - Code Auto Insert -> Python Tutor
-                // var htmlCodes = '<iframe src="http://www.runoob.com/try/runcode.php?filename=HelloWorld&type=python3" width="100%" height="100%" frameborder="0"></iframe>';
-                // e("#main-page").append(htmlCodes);
-            // }
-        
+            
         });
     });
     
