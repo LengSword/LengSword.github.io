@@ -1,9 +1,9 @@
-## **ctf_crypto_0x003-morse_code**
+## **ctf_crypto_0x002-morse_code**
 ```python
 #!/usr/bin/env/ python3
 # -*- coding: utf-8 -*-
 ## 
-#  @file ctf_crypto_0x003-morse_code.py
+#  @file ctf_crypto_0x002_morse_code.py
 #  @brief Morse Code - Crypto
 #  
 #  @author LengSword

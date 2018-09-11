@@ -1,9 +1,9 @@
-## **ctf_crypto_0x002-crc32**
+## **ctf_crypto_0x001-crc32**
 ```python
 #!/usr/bin/env/ python3
 # -*- coding: utf-8 -*-
 ## 
-#  @file ctf_crypto_0x002-crc32.py
+#  @file ctf_crypto_0x001_crc32.py
 #  @brief crc32 crack(password is the 8 bits numbers)
 #  
 #  @author LengSword
