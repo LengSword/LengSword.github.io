@@ -39,5 +39,7 @@
 
 ------
 ### 0x06 **Donation Me**
-- 支付宝 ![Alipay](../img/alipay.jpg)
-- 微信支付 ![WeChat Pay](../img/wechatpay.png)
+- 支付宝
+![Alipay](../img/alipay.jpg)
+- 微信支付
+![WeChat Pay](../img/wechatpay.png)
