@@ -34,8 +34,11 @@
 
 
 ------
-### 0x05 **Links**
-- None
+### 0x05 **My Links**
+- My Emails:
+    - Gmail: ylengsword@gmail.com
+    - QQ: 1030588973@qq.com
+    - hotmail: lengsword@hotmail.com
 
 ------
 ### 0x06 **Donation Me**
