@@ -43,10 +43,6 @@
 
 <!-- extensions START-->
 
-<!-- comment system -->
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-
 <!-- content-fadeIn -->
 <link rel="stylesheet" href="vendor/extension/content-fadeIn/main.css">
 
@@ -75,38 +71,13 @@
 <script src="vendor/extension/markdown-toc/main.js"></script>
 
 <!-- music player -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js"></script>
+<link rel="stylesheet" href="vendor/extension/load-specials-system/APlayer.min.css">
+<script src="vendor/extension/load-specials-system/APlayer.min.js"></script>
 
-<script>
-    const ap = new APlayer({
-        container: document.getElementById('aplayer'),
-        fixed: true,
-        autoplay: false,
-        loop: 'all',
-        preload: 'auto',
-        mutex: true,
-        listFolded: true,
-        listMaxHeight: 90,
-        lrcType: 3,
-        audio: [
-            {
-                name: '一番の宝物 ~Yui final ver.~',
-                artist: 'LiSA',
-                url: 'https://music.163.com/song/media/outer/url?id=419594773',
-                cover: 'https://p1.music.126.net/sRjvTkCN4p1R36QPXcDClA==/3442570911926214.jpg',
-                lrc: 'p/specials/01-一番の宝物 ~Yui final ver.~-LiSA.lrc',
-            },
-            {
-                name: 'You - 钢琴版',
-                artist: 'nayuta',
-                url: 'https://music.163.com/song/media/outer/url?id=34125127',
-                cover: 'https://p1.music.126.net/v22kNtMro7CvzoiCYJ4zjQ==/3315027558990599.jpg',
-                lrc: 'p/specials/02-you-nayuta.lrc',
-            }
-        ]
-    });
-</script>
+<!-- comment system -->
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
 <!-- extensions END-->
 
 <!-- core.js -->
