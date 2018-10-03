@@ -12,12 +12,12 @@
 ### 0x03 **Common Skills Table**
 | Skills    | Progess   |
 |-----------|-----------|
-| ASM       | ![12%](../img/12.svg) |
-| C/C++     | ![9%](../img/9.svg)   |
-| C#        | ![3%](../img/3.svg)   |
-| Java      | ![3%](../img/3.svg)   |
-| JavaScript| ![7%](../img/7.svg)   |
-| Linux     | ![3%](../img/3.svg)   |
+| ASM       | ![9%](../img/9.svg) |
+| C/C++     | ![3%](../img/3.svg)   |
+| C#        | ![1%](../img/1.svg)   |
+| Java      | ![1%](../img/1.svg)   |
+| JavaScript| ![6%](../img/6.svg)   |
+| Linux     | ![2%](../img/2.svg)   |
 | Python    | ![8%](../img/8.svg)   |   
 
 
@@ -25,20 +25,20 @@
 ### 0x04 **Hacker Skills Table(CTF)**
 | Skills    | Progess   |
 |-----------|-----------|
-| Pwn       | ![2%](../img/2.svg)   |
-| Reverse   | ![9%](../img/9.svg)   |
-| Crypto    | ![3%](../img/3.svg)   |
-| Web       | ![5%](../img/5.svg)   |
+| Pwn       | ![1%](../img/1.svg)   |
+| Reverse   | ![5%](../img/5.svg)   |
+| Crypto    | ![2%](../img/2.svg)   |
+| Web       | ![2%](../img/2.svg)   |
 | Mobile    | ![1%](../img/1.svg)   |
-| Misc      | ![2%](../img/2.svg)   |
+| Misc      | ![1%](../img/1.svg)   |
 
 
 ------
 ### 0x05 **My Links**
 - My Emails:
-    - GMail: ylengsword@gmail.com
-    - QQMail: 1030588973@qq.com
-    - HotMail: lengsword@hotmail.com
+    - Gmail: ylengsword@gmail.com
+    - QQmail: 1030588973@qq.com
+    - Hotmail: lengsword@hotmail.com
 
 ------
 ### 0x06 **Donation Me**

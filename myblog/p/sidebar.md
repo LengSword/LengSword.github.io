@@ -2,7 +2,7 @@
 
 ## [**LengSword**](.)
 
-> *Welcome to my simple blog*.
+> *The distance is nothing when one has a motive.*
 
 - [Home](home.md)
 - [Projects](projects/index.md)
