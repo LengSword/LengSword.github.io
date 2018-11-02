@@ -1,4 +1,4 @@
-## ** JavaScript_0x000-decodeValidate **
+## **JavaScript_0x000-decodeValidate**
 
 ```javascript
 /**

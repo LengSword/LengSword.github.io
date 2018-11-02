@@ -1,4 +1,4 @@
-## ** ctf_crypto_0x000-substitution_cipher **
+## **ctf_crypto_0x000-substitution_cipher**
 
 ```python
 #!/usr/bin/env/ python3

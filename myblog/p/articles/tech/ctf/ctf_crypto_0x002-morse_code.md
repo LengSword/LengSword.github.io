@@ -1,4 +1,4 @@
-## ** ctf_crypto_0x002-morse_code **
+## **ctf_crypto_0x002-morse_code**
 
 ```python
 #!/usr/bin/env/ python3

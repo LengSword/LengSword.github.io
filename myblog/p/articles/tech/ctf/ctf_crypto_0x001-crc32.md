@@ -1,4 +1,4 @@
-## ** ctf_crypto_0x001-crc32 **
+## **ctf_crypto_0x001-crc32**
 
 ```python
 #!/usr/bin/env/ python3
