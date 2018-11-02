@@ -1,28 +1,36 @@
-## **ctf_crypto_0x000-substitution_cipher**
+## ** ctf_crypto_0x000-substitution_cipher **
+
 ```python
 #!/usr/bin/env/ python3
 # -*- coding: utf-8 -*-
-## 
-#  @file ctf_crypto_0x000_substitution_cipher.py
-#  @brief Substitution Cipher
-#  
-#  @author LengSword
-#  @email 1030588973@qq.com
-#  @version 0.0.1
-#  @date 2018/08/16
-#  @license MIT
+##
+# @file ctf_crypto_0x000_substitution_cipher.py
+# @description Substitution Cipher
+##
+# @author LengSword
+# @blog lyu63.top
+# @email 1030588973@qq.com or ylengsword@gmail.com
+# @version 0.1
+# @created-date 2018/08/16
+# @last-modified-date 2018/11/03
+# @license MIT
+##
 
 
 class SC_Crypto(object):
-    
-    def encrypt(ciphertext):
+    def __init__(self, ciphertext):
+        self.ciphertext = ciphertext
+
+    def encrypt(self):
+        ciphertext = self.ciphertext
         result = ""
         for pos, char in enumerate(ciphertext):
             char = chr(ord(char) + pos)
             result += char
         return result
-    
-    def decrypt(ciphertext):
+
+    def decrypt(self):
+        ciphertext = self.ciphertext
         result = ""
         for pos, char in enumerate(ciphertext):
             char = chr(ord(char) - pos)
@@ -31,8 +39,9 @@ class SC_Crypto(object):
 
 
 if __name__ == '__main__':
-    r = SC_Crypto.encrypt("123")
+    r = SC_Crypto("123").encrypt()
     print(r)
-    r = SC_Crypto.decrypt("d5d<::7?")
+    r = SC_Crypto("123").decrypt()
     print(r)
+
 ```
