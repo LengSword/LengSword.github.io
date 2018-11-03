@@ -2,7 +2,7 @@
 
 ```javascript
 /**
- * decodeValidate.js - Decode website(http://jwc.wyu.edu.cn/student/)'s validate code.
+ * decodeValidate.js - Decode website(http://202.192.240.54/reading/)'s validate code.
  * author: LengSword
  * version: 1.0.0
  * License: MIT
