@@ -1,10 +1,10 @@
-## **ctf_crypto_0x000-substitution_cipher**
+# crypto_0x000-substitution_cipher
 
 ```python
 #!/usr/bin/env/ python3
 # -*- coding: utf-8 -*-
 ##
-# @file ctf_crypto_0x000_substitution_cipher.py
+# @file crypto_0x000_substitution_cipher.py
 # @description Substitution Cipher
 ##
 # @author LengSword
