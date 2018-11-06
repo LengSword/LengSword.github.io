@@ -36,7 +36,7 @@
 
 `注: 第一次登录会需要验证,输入yes就可以`
 
-```shell
+```bash
 $ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
 
@@ -45,7 +45,7 @@ bandit0@bandit.labs.overthewire.org's password:
 
 然后输入题目提供的密码`bandit0`就进去了.(以下略)
 
-```shell
+```bash
 $ ls
 readme
 $ cat readme
@@ -83,7 +83,7 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 - Windows(安装了ssh for windows以后)
 - Ubuntu(其他Linux系统估计也可以)
 
-```shell
+```bash
 $ exit
 logout
 $ ssh -p 2220 bandit1@bandit.labs.overthewire.org
@@ -94,14 +94,14 @@ bandit1@bandit.labs.overthewire.org's password:
 
 上来先一波ls操作,不要怂2333
 
-```shell
+```bash
 $ ls
 -
 ```
 
 换参数继续
 
-```shell
+```bash
 $ ls -l
 total 4
 -rw-r----- 1 bandit2 bandit1 33 Oct 16 14:00 -
@@ -119,9 +119,15 @@ total 4
 - `c` 装置文件里面的串行端口设备,例如键盘,鼠标(一次性读取装置)
 
 > 引用源: [菜鸟教程](http://www.runoob.com/linux/linux-file-attr-permission.html)
+>  
 > 建议大家在看这篇文章之前先学点基础再来看,不然不懂还是要回去看的,毕竟Linux知识很多很繁杂.
 
 所以这个文件名叫`-`的其实是个文件,应该就是我们要找的了.
+
+> 其实我们也可以用推荐命令中的`file`命令查看这个文件的类型.
+>  
+> 比如输入`file ./*`就能列出当前目录下的所有文件类型了.
+
 用cat输出的时候需要在前面加上`./`
 
 这里顺便说下:

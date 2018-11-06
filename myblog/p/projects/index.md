@@ -2,6 +2,7 @@
 
 ## 0x00 [SimpleMusicPlayer](https://github.com/LengSword/MyLyricFileSystem)
 
+- The local code at [here](../articles/tech/langs/c-c++/0x000-LSRMusicPlayer.md)
 - Nothing to say.Just a lowbee C program.
 - Black history...
 
