@@ -1,6 +1,6 @@
-# 0x000-关于git的一些常用技巧
+# 0x000-About Git Something Useful
 
-## 0x01. 简单入门使用
+## 0x01. Simple Usage
 
 ```shell
 git init      #[1]
@@ -20,9 +20,9 @@ git push -u --f origin master     #[5]
 >
 > [5] `-u`选项指定`origin`为默认主机;`--f`选项指定强制push;该命令将`master`分支推送到`origin`主机
 
-## 0x02. git删除commit记录
+## 0x02. Using Git To Delete Commit Logs
 
-### 方法一
+### Method I
 
 > 使用--depth参数只克隆最近一次commit
 
@@ -30,7 +30,7 @@ git push -u --f origin master     #[5]
 git clone --depth=1
 ```
 
-### 方法二
+### Method II
 
 > 删除git仓库(.git文件夹)然后重建并强制push
 
@@ -43,7 +43,7 @@ git remote add origin [your git remote repository]
 git push -u --f origin master
 ```
 
-## 0x03. 参考文献
+## 0x03. References
 
-1. [GitHub Pages 必备技巧：删除“commit”记录](https://www.v2ex.com/amp/t/461577)
-2. Others...
+[1] [GitHub Pages 必备技巧：删除“commit”记录](https://www.v2ex.com/amp/t/461577)
+[2] Others...

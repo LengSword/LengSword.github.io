@@ -1,1 +1,1 @@
-.markdown-toc{float:unset;width:fit-content;background:#eee;border:1px solid #ddd;border-radius:4px;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);overflow:auto;line-height:1.3em;font-size:1.1em}#toggle{position:relative;left:87%;z-index:1}
+.markdown-toc{position:relative;float:right;margin:10px;width:fit-content;background:#eee;border-radius:10px;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);overflow:auto;line-height:1.3em;font-size:.8em}#toggle{position:relative;z-index:1}
