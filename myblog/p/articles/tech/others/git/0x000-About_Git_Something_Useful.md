@@ -45,5 +45,6 @@ git push -u --f origin master
 
 ## 0x03. References
 
-[1] [GitHub Pages 必备技巧：删除“commit”记录](https://www.v2ex.com/amp/t/461577)
-[2] Others...
+> [1] [GitHub Pages 必备技巧：删除“commit”记录](https://www.v2ex.com/amp/t/461577)
+>  
+> [2] Others...

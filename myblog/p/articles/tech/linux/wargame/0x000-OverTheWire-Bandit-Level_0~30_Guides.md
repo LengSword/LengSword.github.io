@@ -8,14 +8,14 @@
 ## 0x00. Learning Resources Recommended
 
 > - Linux在线资源
-> [1] [菜鸟教程](http://www.runoob.com/linux/linux-tutorial.html)
-> [2] [Linux在线命令大全手册](http://man.linuxde.net/)
-> [3] [Linux思维导图整理](https://www.jianshu.com/p/59f759207862)
+>   - [菜鸟教程](http://www.runoob.com/linux/linux-tutorial.html)
+>   - [Linux在线命令大全手册](http://man.linuxde.net/)
+>   - [Linux思维导图整理](https://www.jianshu.com/p/59f759207862)
 > - Shell在线资源
-> [1] [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-> [2] [shell命令行分解分析[EN]](https://explainshell.com/)
+>   - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+>   - [shell命令行分解分析[EN]](https://explainshell.com/)
 > - 实体书籍
-> [1] 《鸟哥的Linux私房菜 基础学习篇 第四版》(京东,当当均有售)
+>   - 《鸟哥的Linux私房菜 基础学习篇 第四版》(京东,当当均有售)
 
 ## 0x01. Level 0
 
