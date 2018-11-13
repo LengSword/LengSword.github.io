@@ -1,1 +1,1 @@
-.sidebar,.toggle{animation-name:fadein}.main-page.markdown-body{animation-duration:3.8s;animation-name:fadein}.sidebar{animation-duration:1.8s}.toggle{animation-duration:3.8s}@keyframes fadein{from{opacity:0}to{opacity:1}}
+.main-page.markdown-body{animation-duration:3.8s;animation-name:fadein}.sidebar{animation-duration:1.8s;animation-name:fadein}.toTop,.toggle{animation-duration:3.8s;animation-name:fadein}@keyframes fadein{from{opacity:0}to{opacity:1}}
