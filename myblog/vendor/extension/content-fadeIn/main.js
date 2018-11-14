@@ -1,1 +1,1 @@
-!function(o){"use strict";o(window).on("loaded-main-page",function(){o(".toggle").css("background-image","url('img/toc.png')"),o(".toTop").css("background-image","url('img/up.png')")})}(Zepto);
+!function(t){"use strict";t(window).on("loaded-main-page",function(){t(".toggle").attr("src","img/toc.png"),t(".toTop").attr("src","img/up.png")})}(Zepto);
