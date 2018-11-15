@@ -71,7 +71,7 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 ------
 
-## 0x02. Level - 1
+## 0x02. Level 1
 
 ### I. Goal
 
@@ -95,8 +95,7 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 ### V. Solution
 
-- Windows(安装了ssh for windows以后)
-- Ubuntu(其他Linux系统估计也可以)
+ssh上去
 
 ```shell
 $ exit
@@ -166,3 +165,641 @@ CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```python
 bandit2_password = CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
+
+------
+
+## 0x03. Level 2
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x04. Level 3
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x05. Level 4
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x06. Level 5
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x07. Level 6
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x08. Level 7
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x09. Level 8
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x0A. Level 9
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x0B. Level 10
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x0C. Level 11
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x0D. Level 12
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x0E. Level 13
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x0F. Level 14
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x10. Level 15
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x11. Level 16
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x12. Level 17
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x13. Level 18
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x14. Level 19
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x15. Level 20
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x16. Level 21
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x17. Level 22
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
+
+------
+
+## 0x18. Level 23
+
+### I. Goal
+
+> ...
+
+### II. Commands you may need to solve this level
+
+- ...
+
+### III. Commands List
+
+- ssh
+- ls
+- cat
+
+### IV. Intro
+
+...
+
+### V. Solution
+
+- Windows
+- Ubuntu
+
+...
