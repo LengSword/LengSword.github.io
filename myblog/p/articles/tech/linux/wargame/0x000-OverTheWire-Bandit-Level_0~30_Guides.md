@@ -13,7 +13,7 @@
 >   - [Linux思维导图整理](https://www.jianshu.com/p/59f759207862)
 > - Shell在线资源
 >   - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
->   - [shell命令行分解分析[EN]](https://explainshell.com/)
+>   - [Shell命令行分解分析[EN]](https://explainshell.com/)
 > - 实体书籍
 >   - 《鸟哥的Linux私房菜 基础学习篇 第四版》(京东,当当均有售)
 
