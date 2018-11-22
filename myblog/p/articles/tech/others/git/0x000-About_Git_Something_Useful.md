@@ -7,7 +7,7 @@ git init      #[1]
 git add .     #[2]
 git commit -m "<commit name>"     #[3]
 git remote add origin <your git remote repository>    #[4]
-git push -u --f origin master     #[5]
+git push -u -f origin master     #[5]
 ```
 
 > [1] 创建新的git仓库
@@ -18,7 +18,7 @@ git push -u --f origin master     #[5]
 >
 > [4] 添加git远程仓库到`origin`主机
 >
-> [5] `-u`选项指定`origin`为默认主机;`--f`选项指定强制push;该命令将`master`分支推送到`origin`主机
+> [5] `-u`选项指定`origin`为默认主机;`-f`选项指定强制push;该命令将`master`分支推送到`origin`主机
 
 ## 0x02. Using Git To Delete Commit Logs
 
@@ -39,8 +39,8 @@ rm -rf .git
 git init
 git add .
 git commit -m "[commit name]"
-git remote add origin [your git remote repository]
-git push -u --f origin master
+git remote add origin <your git remote repository>
+git push -u -f origin master
 ```
 
 ## 0x03. References
