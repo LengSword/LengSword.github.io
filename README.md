@@ -1,2 +1,1 @@
-# Welcome to my personal blog
-
+# The blog is *DEPRECATED*.
